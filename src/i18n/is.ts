@@ -72,7 +72,7 @@ export const is = {
   },
   footer: {
     rights: "Öll réttindi áskilin.",
-    builtOn: "Vefsíða byggð á Yext Pages.",
+    builtOn: "Vefsíða byggð á Ja+.",
     privacyLink: "Persónuvernd",
     cookieSettings: "Vafrakökustillingar",
   },

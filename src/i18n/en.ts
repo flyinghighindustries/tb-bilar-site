@@ -73,7 +73,7 @@ export const en: Strings = {
   },
   footer: {
     rights: "All rights reserved.",
-    builtOn: "Site built on Yext Pages.",
+    builtOn: "Site built on Ja+.",
     privacyLink: "Privacy",
     cookieSettings: "Cookie settings",
   },
